@@ -1,0 +1,22 @@
+body {
+  background-color: #f2f2f7;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.login-container {
+  max-width: 900px;
+  background-color: #fff0f5;
+}
+
+a {
+  color: #e70b4d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button:hover {
+  opacity: 0.9;
+}
